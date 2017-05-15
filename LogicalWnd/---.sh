@@ -1,4 +1,4 @@
-set -x
+set -xv
 git rm --cached *.user
 git add .
 git commit -m "ignore *.user"
