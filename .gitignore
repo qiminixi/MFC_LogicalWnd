@@ -1,6 +1,6 @@
 *.ncb
 *.ilk
-debug/**
-release/**
-!/debug/*.exe
-!/release/*.exe
+debug/*.ilk
+debug/*.pdb
+release/*.ilk
+release/*.pdb
