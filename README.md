@@ -6,7 +6,7 @@ What is in it:
 * window messages, like resize, mousebutton, keyboard and so on.  
 * button control.  
 * gif player.  
-  
+
 It is designed with GID+, as expected, cpu useage is high.
 
 ![screenshot](https://github.com/qiminixi/MFC_LogicalWnd/blob/master/release/screenshot.png)
